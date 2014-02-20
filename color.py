@@ -1,6 +1,5 @@
 import os
 
-
 while True:
 	a = raw_input("")
 	col = 'color ' + a
